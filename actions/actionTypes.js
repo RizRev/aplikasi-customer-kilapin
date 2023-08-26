@@ -1,0 +1,67 @@
+// - LOGIN
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_ERROR = 'LOGIN_ERROR';
+export const LOGIN = 'LOGIN';
+export const LOGIN_START = 'LOGIN_START';
+
+// - LANGUAGE TRANSLATION
+export const CHANGE_LANGUAGE = 'CHANGE_LANGUAGE';
+export const ADD_ORDER = 'ADD_ORDER';
+export const CLEAR_ORDER = 'CLEAR_ORDER';
+
+// - IMAGE
+export const ADD_IMAGE = 'ADD_IMAGE';
+export const CLEAR_IMAGE = 'CLEAR_IMAGE';
+
+//ADDRESS
+export const ADD_ADDRESS = 'ADD_ADDRESS';
+export const CLEAR_ADDRESS = 'CLEAR_ADDRESS';
+
+//ADDRESS
+export const ADD_POSTAL_CODE = 'ADD_POSTAL_CODE';
+export const CLEAR_POSTAL_CODE = 'CLEAR_POSTAL_CODE';
+
+//VOUCHER
+export const LIST_VOUCHER = 'LIST_VOUCHER';
+export const CLEAR_VOUCHER = 'CLEAR_VOUCHER';
+
+//ORDER TYPE
+export const CHANGE_ORDER_TYPE = 'CHANGE_ORDER_TYPE';
+
+//USE VOUCHER
+export const USE_VOUCHER = 'USE_VOUCHER'
+
+//ORDER VOUCHER
+export const TAKE_VOUCHER = 'TAKE_VOUCHER'
+
+//TIME ORDER
+export const TIME_ORDER = 'TIME_ORDER'
+
+//SIZE ORDER
+export const SIZE_ORDER = 'SIZE_ORDER'
+
+export const VOUCHER_DISCOUNT = 'VOUCHER_DISCOUNT'
+export const MAX_DISCOUNT = 'MAX_DISCOUNT'
+export const MINTRANS_VOUCHER = 'MINTRANS_VOUCHER'
+// export const VOUCHER_DISCOUNT = 'VOUCHER_DISCOUNT'
+
+
+export const CLEAR_DISCOUNT = 'CLEAR_DISCOUNT'
+
+export const ORDER_ADDON = 'ORDER_ADDON'
+
+export const FETCH_MEMBERSHIP = 'FETCH_MEMBERSHIP'
+
+// LONG LAT
+export const ADD_LNG = 'ADD_LNG'
+export const ADD_LAT = 'ADD_LAT'
+
+// CLEAR LONG LAT
+export const CLEAR_LNG = 'CLEAR_LNG'
+export const CLEAR_LAT = 'CLEAR_LAT'
+
+export const CLEAR_CODE_VOUCHER = 'CLEAR_CODE_VOUCHER'
+
+export const CLEAR_PROFILE = 'CLEAR_PROFILE'
+
+export const CLEAR_AUTH = 'CLEAR_AUTH'
